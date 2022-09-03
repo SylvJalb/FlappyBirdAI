@@ -1,4 +1,7 @@
 pygame
+matplotlib
 pyautogui
 gobject
 PyGObject
+tensorflow
+dqn_agent
