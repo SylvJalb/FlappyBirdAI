@@ -5,3 +5,4 @@ gobject
 PyGObject
 tensorflow
 dqn_agent
+opencv-python
